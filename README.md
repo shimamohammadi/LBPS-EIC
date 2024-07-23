@@ -8,7 +8,14 @@
 export PYTHONPATH=${PWD}
 ```
 
-2. Run:
+
+2. Download the trained model to src/model directory:
+```
+[Download large file](https://drive.google.com/file/d/1WiVWDnS8IXkUzkVsC9uFHLmpxsQ4YcHd/view?usp=drive_link)
+```
+
+
+3. Run:
 ```
 python src/main.py
 ```
