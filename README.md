@@ -9,11 +9,7 @@ export PYTHONPATH=${PWD}
 ```
 
 
-2. Download the trained model to src/model directory: "**[Download](https://drive.google.com/file/d/1WiVWDnS8IXkUzkVsC9uFHLmpxsQ4YcHd/view?usp=drive_link)"**
-```
-"**[Download](https://drive.google.com/file/d/1WiVWDnS8IXkUzkVsC9uFHLmpxsQ4YcHd/view?usp=drive_link)"**
-```
-
+2. "**[Download](https://drive.google.com/file/d/1WiVWDnS8IXkUzkVsC9uFHLmpxsQ4YcHd/view?usp=drive_link)"** the trained model to src/model directory: 
 
 3. Run:
 ```
