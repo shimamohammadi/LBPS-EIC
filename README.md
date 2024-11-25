@@ -45,4 +45,9 @@ python src/main.py
 ## Citation
 If you use this code in your research or projects, please cite the following paper:
 
+## Acknowledgements
+
+This work is funded by FCT/MCTES through national funds and when applicable co-funded EU funds under the project DARING with reference PTDC/EEI-COM/7775/2020.
+
+
 
