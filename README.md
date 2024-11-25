@@ -33,7 +33,7 @@ Navigate to the project directory and add the `src` directory to your `PYTHONPAT
 export PYTHONPATH=${PWD}
 ```
 ##### 4. Download the Model:
-4. **[Download](https://drive.google.com/file/d/1WiVWDnS8IXkUzkVsC9uFHLmpxsQ4YcHd/view?usp=drive_link)** the trained model to src/model directory.
+- **[Download](https://drive.google.com/file/d/1WiVWDnS8IXkUzkVsC9uFHLmpxsQ4YcHd/view?usp=drive_link)** the trained model to src/model directory.
 
 ## How to Run the code
 To execute the program, run the following command:
