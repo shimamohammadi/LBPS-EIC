@@ -3,7 +3,7 @@ Shima Mohammadi, João Ascenso
 
 Instituto de Telecomunicações, Instituto Superior Técnico, University of Lisbon
 
-Download the paper here: 
+[Download](https://arxiv.org/abs/2411.18372) the paper
 ## About the Paper
 <p align="justify">
 Assessing image quality is crucial in image processing tasks such as compression, super-resolution, and denoising. While subjective assessments involving human evaluators provide the most accurate quality scores, they are impractical for largescale or continuous evaluations due to their high cost and time requirements. Pairwise comparison subjective assessment tests, which rank image pairs instead of assigning scores, offer more reliability and accuracy but require numerous comparisons, leading to high costs. Although objective quality metrics are more efficient, they lack the precision of subjective tests, which are essential for benchmarking and training learningbased quality metrics. This paper proposes an uncertainty-based sampling method to optimize the pairwise comparison subjective assessment process. By utilizing deep learning models to estimate human preferences and identify pairs that need human labeling, the approach reduces the number of required comparisons while maintaining high accuracy. The key contributions include modeling uncertainty for accurate preference predictions and for pairwise sampling. The experimental results demonstrate superior performance of the proposed approach compared to traditional active sampling methods.
@@ -32,8 +32,8 @@ Navigate to the project directory and add the `src` directory to your `PYTHONPAT
 ```
 export PYTHONPATH=${PWD}
 ```
-##### 4. Download the Model:
-- **[Download](https://drive.google.com/file/d/1WiVWDnS8IXkUzkVsC9uFHLmpxsQ4YcHd/view?usp=drive_link)** the trained model to src/model directory.
+<!-- ##### 4. Download the Model:
+- **[Download](https://drive.google.com/file/d/1WiVWDnS8IXkUzkVsC9uFHLmpxsQ4YcHd/view?usp=drive_link)** the trained model to src/model directory. -->
 
 ## How to Run the code
 To execute the program, run the following command:
@@ -44,6 +44,15 @@ python src/main.py
 
 ## Citation
 If you use this code in your research or projects, please cite the following paper:
+```@misc{mohammadi2024uncertaintydrivensamplingefficientpairwise,
+      title={Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment}, 
+      author={Shima Mohammadi and João Ascenso},
+      year={2024},
+      eprint={2411.18372},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM},
+      url={https://arxiv.org/abs/2411.18372}, 
+}```
 
 ## Acknowledgements
 
