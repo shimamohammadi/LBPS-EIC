@@ -44,7 +44,8 @@ python src/main.py
 
 ## Citation
 If you use this code in your research or projects, please cite the following paper:
-```@misc{mohammadi2024uncertaintydrivensamplingefficientpairwise,
+```
+@misc{mohammadi2024uncertaintydrivensamplingefficientpairwise,
       title={Uncertainty-driven Sampling for Efficient Pairwise Comparison Subjective Assessment}, 
       author={Shima Mohammadi and João Ascenso},
       year={2024},
@@ -52,7 +53,8 @@ If you use this code in your research or projects, please cite the following pap
       archivePrefix={arXiv},
       primaryClass={cs.MM},
       url={https://arxiv.org/abs/2411.18372}, 
-}```
+}
+```
 
 ## Acknowledgements
 
